@@ -14,7 +14,8 @@ This dual-axis solar tracker is suitable for residential, commercial, and indust
   ![image](https://github.com/AmirSamanMirjalili/Dual_Axis_Solar_Tracker/assets/57065409/2d2a23ec-c992-4415-af7e-bf5474c69c2d)
 
 ## Further Information
-For additional details about the invention, please refer to the corresponding patent document: • US Patent: Dual-Axis Solar Tracker with Hybrid Control and Possibility of Full Rotation, ISSUED: 2023 [Link](https://patents.google.com/patent/US20230402961A1/en)
+For additional details about the invention, please refer to the corresponding patent document: • US Patent: Dual-Axis Solar Tracker with Hybrid Control and Possibility of Full Rotation, ISSUED: 2023 [Link](https://patents.google.com/patent/US20230402961A1/en) 
+![US20230402961A1-20231214-D00003](https://github.com/AmirSamanMirjalili/Dual_Axis_Solar_Tracker/assets/57065409/35119fa4-caf8-4bb7-bc23-246b27166fa5)
 
 ## Paper
 **Experimental evaluation of the open-loop control method for a dual-axis solar tracker**
