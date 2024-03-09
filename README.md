@@ -11,11 +11,16 @@ Existing dual-axis solar trackers face challenges related to control strategy, p
 This dual-axis solar tracker is suitable for residential, commercial, and industrial applications where maximum energy production from solar panels is desired. It provides a versatile solution for optimal solar energy harvesting in diverse geographical locations and climatic conditions.
 
 ## Tracker Mechanism
-  ![image](https://github.com/AmirSamanMirjalili/Dual_Axis_Solar_Tracker/assets/57065409/2d2a23ec-c992-4415-af7e-bf5474c69c2d)
+<table>
+    <tr>
+        <td style="max-width:50%;"><img src="https://github.com/AmirSamanMirjalili/Dual_Axis_Solar_Tracker/assets/57065409/2d2a23ec-c992-4415-af7e-bf5474c69c2d" alt="Image 1"></td>
+        <td style="max-width:50%;"><img src="https://github.com/AmirSamanMirjalili/Dual_Axis_Solar_Tracker/assets/57065409/35119fa4-caf8-4bb7-bc23-246b27166fa5" style="width:30%;" alt="Image 2"></td>
+    </tr>
+</table>
 
 ## Further Information
 For additional details about the invention, please refer to the corresponding patent document: • US Patent: Dual-Axis Solar Tracker with Hybrid Control and Possibility of Full Rotation, ISSUED: 2023 [Link](https://patents.google.com/patent/US20230402961A1/en) 
-![US20230402961A1-20231214-D00003](https://github.com/AmirSamanMirjalili/Dual_Axis_Solar_Tracker/assets/57065409/35119fa4-caf8-4bb7-bc23-246b27166fa5)
+
 
 ## Paper
 **Experimental evaluation of the open-loop control method for a dual-axis solar tracker**
