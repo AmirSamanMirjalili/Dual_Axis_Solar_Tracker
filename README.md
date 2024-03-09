@@ -9,12 +9,12 @@ Existing dual-axis solar trackers face challenges related to control strategy, p
  - **Simplicity and Efficiency**: The modular design facilitates quick and straightforward assembly, installation, disassembly, and transportation, making the tracker user-friendly and cost-effective.
 ## Applications
 This dual-axis solar tracker is suitable for residential, commercial, and industrial applications where maximum energy production from solar panels is desired. It provides a versatile solution for optimal solar energy harvesting in diverse geographical locations and climatic conditions.
-## Further Information
-For additional details about the invention, please refer to the corresponding patent document: • US Patent: Dual-Axis Solar Tracker with Hybrid Control and Possibility of Full Rotation, ISSUED: 2023 [Link](https://patents.google.com/patent/US20230402961A1/en)
 
 ## Tracker Mechanism
   ![image](https://github.com/AmirSamanMirjalili/Dual_Axis_Solar_Tracker/assets/57065409/2d2a23ec-c992-4415-af7e-bf5474c69c2d)
 
+## Further Information
+For additional details about the invention, please refer to the corresponding patent document: • US Patent: Dual-Axis Solar Tracker with Hybrid Control and Possibility of Full Rotation, ISSUED: 2023 [Link](https://patents.google.com/patent/US20230402961A1/en)
 
 ## Paper
 **Experimental evaluation of the open-loop control method for a dual-axis solar tracker**
